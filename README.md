@@ -1,16 +1,17 @@
-### Hi there 👋
+## Oi, pessoal 👋
 
-<!--
-**RafaelFir/RafaelFir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Rafael Firmino. Sejam bem vindos ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia. Atualmente cursando Desenvolvimento de Software com foco em Back-end na [Cubos Academy](https://cubos.academy/), onde venho desenvolvendo e aprimorando minhas habilidades, tanto tecnicas quanto comportamentais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-firmino-moraes/)
+
+### Hards Skills:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Evolução constante, a cada dia 1%!!!
