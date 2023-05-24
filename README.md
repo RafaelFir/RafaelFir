@@ -2,8 +2,6 @@
 
 Eu sou Rafael Firmino. Sejam bem vindos ao meu perfil do GitHub!
 
-Apaixonado por tecnologia. Atualmente cursando Desenvolvimento de Software com foco em Back-end na [Cubos Academy](https://cubos.academy/), onde venho desenvolvendo e aprimorando minhas habilidades, tanto tecnicas quanto comportamentais.
-
 ### Para me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-firmino-moraes/)
