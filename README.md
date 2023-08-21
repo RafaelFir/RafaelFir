@@ -13,7 +13,3 @@ Eu sou Rafael Firmino. Sejam bem vindos ao meu perfil do GitHub!
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFir&layout=compact)](https://github.com/RafaelFir/RafaelFir)
-
-
-
-Evolução constante, a cada dia 1%!!!
